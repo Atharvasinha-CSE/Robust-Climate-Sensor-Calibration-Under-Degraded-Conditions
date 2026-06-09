@@ -18,11 +18,3 @@ By simulating high-noise environments (such as hardware damage or severe weather
   * `numpy` (Mathematical Operations)
   * `matplotlib` (Data Visualization)
 
-## 💻 How to Run the Project (Browser/Colab)
-The easiest way to run this project is directly in your browser using Google Colab, requiring zero local installation.
-
-1. Navigate to [Google Colab](https://colab.research.google.com/).
-2. Click **File > New Notebook**.
-3. Create a new code cell and install the required dependencies:
-   ```bash
-   !pip install gymnasium stable-baselines3 numpy matplotlib
